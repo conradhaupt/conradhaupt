@@ -1,5 +1,5 @@
 # Biography
 
-Conrad J. Haupt received the B.Sc. degree (Hons.) in electrical engineering (information) from the University of the Witwatersrand, Johannesburg, South Africa, in 2017, where he is currently pursuing the M.Sc. degree in electrical engineering on digital data compression.
+Conrad J. Haupt received the B.Sc. degree (Hons.) in electrical engineering (information) (cum laude) from the University of the Witwatersrand, Johannesburg, South Africa, in 2017, where he is currently pursuing the M.Sc. degree in electrical engineering on digital data compression.
 
 From 2015 to 2017, he worked as an Engineering Intern for the Square Kilometre Array in South Africa on telecommunications and wireless spectrum management projects. During his M.Sc., he has been a part-time lecturer and head tutor for undergraduate electrical engineering courses. He is a member of the WitsQ Quantum Computing Team, University of the Witwatersrand. He has mentored numerous undergraduate teams for competitions in super-computing and data-science hosted by the Council for Scientific and Industrial Research (CSIR), South Africa. His research interests include low-level software optimization, data-intensive computing, and quantum computing.
